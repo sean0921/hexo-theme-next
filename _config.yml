@@ -204,7 +204,7 @@ footer:
   # Icon between year and copyright info.
   icon:
     # Icon name in Font Awesome. See: https://fontawesome.com/icons
-    name: fa fa-heart
+    name: fa fa-glass-cheers
     # If you want to animate the icon, set it to true.
     animated: false
     # Change the color of icon, using Hex Code.
